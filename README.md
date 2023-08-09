@@ -52,7 +52,9 @@ Score: This is a number calculated by Social Buzz that quantifies how “popular
 should be considered as a more popular reaction
 ### Objective:
 To find the "Top 5 categories with the largest popularity".
+
 ## Implementation:
+
 By looking at the Data, we can conclude the following Data Types to process:
 - **String**    - Sequence of characters, digits, or symbols—always treated as text
 - **UUID**      - Universally Unique Identifiers
@@ -61,9 +63,17 @@ By looking at the Data, we can conclude the following Data Types to process:
 - **Timestamp** - Number of seconds that have elapsed since midnight (00:00:00 UTC)
 ### Data Sets:
 The Three Data Sets that we need to have in order to solve the problem are
-1. 
-2.
-3.
+1. Content
+2. Reations
+3. ReactionTypes
+
+**Refer** -> [**Given Data**](https://github.com/Imranian/Data-Analysis-using-Excel/tree/main/Given%20Data)
+### Schema:
+
+<p align="center">
+    <img src="https://github.com/Imranian/Data-Analysis-using-Excel/blob/main/Schema.png">
+</p>
+
 ### Approach:
 #### Step 1: Requirement gathering
 - client wanted to see “An analysis of their content categories showing the top 5 categories with the largest popularity”.
@@ -86,3 +96,6 @@ Now we want to figure out the top 5 categories. To complete your data modelling,
 - Add up the total scores for each category.
 - Note: You can use the “Sum If” formula
 ## Result:
+
+https://github.com/Imranian/Data-Analysis-using-Excel/blob/main/My/Reaction%20merge%20Top5.xlsx
+
