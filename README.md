@@ -97,5 +97,7 @@ Now we want to figure out the top 5 categories. To complete your data modelling,
 - Note: You can use the “Sum If” formula
 ## Result:
 
-https://github.com/Imranian/Data-Analysis-using-Excel/blob/main/My/Reaction%20merge%20Top5.xlsx
+<p align="center">
+    <img src="https://github.com/Imranian/Data-Analysis-using-Excel/blob/main/My/Top%205.png">
+</p>
 
