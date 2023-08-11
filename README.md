@@ -3,6 +3,7 @@ Data Analysis Project for Accenture NA on Forage.
 ## Project Details:
 ### Scenario:
 Lets say, a Social Media Company is having trouble identifying which content on their platform is popular, due to the enormous amount of data being generated. They have given me the **csv files** containing Data regarding the following
+### Entities and their respective Attributes
 #### User
 ID: Unique ID of the user (automatically generated)
 
