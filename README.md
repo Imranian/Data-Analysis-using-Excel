@@ -69,7 +69,7 @@ The Three Data Sets that we need to have in order to solve the problem are
 3. ReactionTypes
 
 **Refer** -> [**Given Data**](https://github.com/Imranian/Data-Analysis-using-Excel/tree/main/Given%20Data)
-### Schema:
+### ER:
 
 <p align="center">
     <img src="https://github.com/Imranian/Data-Analysis-using-Excel/blob/main/Schema.png">
